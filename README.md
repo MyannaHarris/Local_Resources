@@ -9,6 +9,8 @@ To run:
 
 Download Scala
 
+In terminal, go to directory containing code files.
+
 scalac LocalResourcesGUI.scala Resource.scala Shelter.scala SoupKitchen.scala Food.scala Water.scala Weather.scala
 
 scala LocalResourcesGUI
